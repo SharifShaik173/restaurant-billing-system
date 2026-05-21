@@ -33,4 +33,4 @@ Peppy Paneer       → ₹459
 - Not intended for production use
 
 ## ◈ Status
-its a Beginner learning project · Not for production use
+ Beginner learning project · Not for production use
