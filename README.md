@@ -1,5 +1,5 @@
 
- ### 🍕 Bill Splitting & Payment System for Restaurants
+ ## 🍕 Bill Splitting & Payment System for Restaurants
 
 A simple command-line restaurant ordering system built with Python.
 
